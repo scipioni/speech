@@ -1,0 +1,3 @@
+#!/bin/sh
+
+sox /usr/share/sounds/alsa/Front_Center.wav -r 16000 -c 1 test-wav/front_center.wav
