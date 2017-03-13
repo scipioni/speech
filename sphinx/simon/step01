@@ -1,3 +1,0 @@
-sphinx_fe -argfile ../en-us/feat.params \
-	-samprate 16000 -c simon.fileids \
-	-di . -do . -ei wav -eo mfc -mswav yes
